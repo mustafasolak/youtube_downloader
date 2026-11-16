@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.claude/
+.DS_Store
+
+# indirilen dosyalar
+indirilenler/
+*.mp4
+*.mp3
+*.webm
+*.m4a
+*.part
+
+# tek seferlik yama scriptleri
+duzelt*.py
